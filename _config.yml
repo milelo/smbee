@@ -1,0 +1,16 @@
+# See: https://github.com/pmarsceill/just-the-docs/blob/master/_config.yml
+
+remote_theme: milelo/just-the-docs
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Make a Bee
+description: SMBee documentation
+footer_content: "Copyright &copy; 2019 Mike Longworth"
+# logo: "/smbee/assets/SMBee-top.svg"
+
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://milelo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
