@@ -27,7 +27,7 @@ Reading glasses (x3.5 or x4.0) | ![](assets/reading-glasses.jpg) | Essential for
 Hot air station | ![](assets/atten858d.jpg) | Provides hot air to melt the solder paste to solder the surface mount components. Fit the small diameter tip ~5mm.
 Soldering iron | ![](assets/) | Easier to use to melt the solder paste on the brooch pin and battery holder.
 Soldering tip cleaner | ![](assets/tip-cleaner-brass.jpg) | A damp sponge or brass-wire pad to clean the soldering iron tip when hot.
-Soldering Smoke Absorber | ![](assets/) | Can help filter the solder fumes.
+Soldering Smoke Absorber | ![](assets/Hakko FA-400.png) | Can help filter the solder fumes. You need to work close to the fan for them to be effective. They can also block your working light, a portable light source can be useful.
 Small scissors | ![](assets/small-scissors.jpg) | Nail or sewing type scissors for cutting the Kapton tape.
 10x LED Loupe or similar | ![](assets/10x-loupe.jpg) | Optional, a helpful aid for close inspection.
 Needle file, emory-paper or similar | ![](assets/needle-file.jpg) | To remove the PCB mouse-bites if the PCB requires finishing.
@@ -51,8 +51,6 @@ Some gas soldering irons have a catalyzing nozzle attachment as an alternative t
 use these for surface mount soldering however it may be possible to use one using the distance from the component to
 adjust the temperature. Experimentation required.
 -->
-
-## Soldering Smoke Absorber
 
 ## Reading glasses
 
