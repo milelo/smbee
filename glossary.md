@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Glossary
-parent: Make a bee
 has_children: false
-nav_order: 6
+nav_order: 8
 ---
 3D CAD | Computer Aided Design - 3D mechanical design software for SMBeeHive Acrylic case / jig design (Autodesk Fusion 360)
 EDA | Electronic Design Automation - PCB design software (KiCAD)
@@ -21,3 +20,4 @@ MCU | Micro Controller Unit
 BOM | Build Of Materials - the individual components that compose to a product
 RoHS | [Restriction of Hazardous Substances directive](https://www.rohsguide.com/rohs-faq.htm){:target="rohs"}
 HASL | Hot Air Surface Leveling (PCB)
+IDC | Insulation Displacement Connector
