@@ -11,6 +11,9 @@ The bee will need to be programmed before it will function. To do this you will 
 
 The full programming instruction are available in the [SMBeeFirmware](https://github.com/milelo/SMBeeFirmware){:target="SMBeeFirmware"} repository.
 
+<iframe width="400" height="225" src="https://www.youtube.com/embed/2UukflvSl64" frameborder="0" allowfullscreen></iframe>
+
+
 
 
 
