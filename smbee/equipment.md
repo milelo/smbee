@@ -42,6 +42,8 @@ I use an ATTEN 858D, this is a relatively inexpensive unit of which there are ma
 
 [EEVblog review of ATTEN 858D]{:target="ATTEN-858D"}
 
+**Warning**. I've done some safety testing on my ATTEN 858D. I have only a basic understanding of the PAT legislation. The unit is CE marked but I can't see how this unit could pass the ground resistance part of [Portable Applience Testing]{:target="PAT"} (PAT). 
+
 There are other relative inexpensive units like this [Duratool hot-air station](https://cpc.farnell.com/duratool/d03167/hot-air-smd-rework-station/dp/SD02123){:target="duratool"}, I haven't had the opportunity to try them. This unit is only rated at 300w as oppose to the 700w of my ATTEN unit so may be slower.
 
 <!--
@@ -72,4 +74,5 @@ Note:
 
 [Equipment summery spreadsheet]: https://docs.google.com/spreadsheets/d/1pC-4M-7qa12mT0QL2S9FdDb4QyRmq4kYofQHElQal1s/edit#gid=802410893
 [EEVblog review of ATTEN 858D]: https://www.youtube.com/watch?v=vva2t21sOAs
+[Portable Applience Testing]: http://www.hse.gov.uk/electricity/faq-portable-appliance-testing.htm
 
