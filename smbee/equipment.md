@@ -27,7 +27,8 @@ Reading glasses (x3.5 or x4.0) | ![](assets/reading-glasses.jpg) | Essential for
 Hot air station | ![](assets/atten858d.jpg) | Provides hot air to melt the solder paste to solder the surface mount components. Fit the small diameter tip ~5mm.
 Soldering iron | ![](assets/) | Easier to use to melt the solder paste on the brooch pin and battery holder.
 Soldering tip cleaner | ![](assets/tip-cleaner-brass.jpg) | A damp sponge or brass-wire pad to clean the soldering iron tip when hot.
-Soldering Smoke Absorber | ![](assets/Hakko FA-400.png) | Can help filter the solder fumes. You need to work close to the fan for them to be effective. They can also block your working light, a portable light source can be useful.
+Soldering Smoke Absorber | ![](assets/Hakko_FA-400.png) | Can help filter the solder fumes. You need to work close to the fan for them to be effective. They can also block your working light, a portable light source can be useful.
+RCD | ![](assets/rcd-masterplug.png) | Residual Current Device. Use with all soldering equipment to ensure operator safety incase of faulty equipment and cables damaged during use. Note: as a minimum visualy check equipment before use.
 Small scissors | ![](assets/small-scissors.jpg) | Nail or sewing type scissors for cutting the Kapton tape.
 10x LED Loupe or similar | ![](assets/10x-loupe.jpg) | Optional, a helpful aid for close inspection.
 Needle file, emory-paper or similar | ![](assets/needle-file.jpg) | To remove the PCB mouse-bites if the PCB requires finishing.
@@ -35,14 +36,13 @@ Small side-cutters | ![](assets/side-cutters.jpg) | To remove the PCB panel moun
 
 ## Hot air station
 
-A professional soldering station with hot air station can set you back hundreds of pounds however there are
-a few low cost and perfectly serviceable options for low volume work.
+A professional soldering station with hot air station can set you back hundreds of pounds however there are a few low cost and perfectly serviceable options for low volume work.
 
 I use an ATTEN 858D, this is a relatively inexpensive unit of which there are many chinese clones available.
 
 [EEVblog review of ATTEN 858D]{:target="ATTEN-858D"}
 
-**Warning**. I've done some safety testing on my ATTEN 858D. I have only a basic understanding of the PAT legislation. The unit is CE marked but I can't see how this unit could pass the ground resistance part of [Portable Applience Testing]{:target="PAT"} (PAT). 
+**Warning**. I've done some safety testing on my ATTEN 858D. I have only a basic understanding of the PAT legislation. The unit is CE marked but I can't see how this unit could pass the ground resistance part of [Portable Applience Testing]{:target="PAT"} (PAT). Use only with an RCD to mitigate any earth integrity issues.
 
 There are other relative inexpensive units like this [Duratool hot-air station](https://cpc.farnell.com/duratool/d03167/hot-air-smd-rework-station/dp/SD02123){:target="duratool"}, I haven't had the opportunity to try them. This unit is only rated at 300w as oppose to the 700w of my ATTEN unit so may be slower.
 
