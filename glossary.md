@@ -21,3 +21,4 @@ BOM | Build Of Materials - the individual components that compose to a product
 RoHS | [Restriction of Hazardous Substances directive](https://www.rohsguide.com/rohs-faq.htm){:target="rohs"}
 HASL | Hot Air Surface Leveling (PCB)
 IDC | Insulation Displacement Connector
+RCD | Residual Current Device - A safety device for mains electricity supplies that breaks when a leakage current is detected. [Wikipedia](https://en.wikipedia.org/wiki/Residual-current_device){:target="wikipedia"}
