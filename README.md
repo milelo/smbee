@@ -11,9 +11,15 @@ The site is deployed to: <https://milelo.github.io/smbee>
 You can build this documentation locally to support development.
 
 If you don't already have them, install the necessary tool chain utilities:
+
+### OSX
 1. ruby: https://www.ruby-lang.org/en/documentation/installation/
 1. bundler: https://bundler.io/
 1. git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+### Windows
+1. install chocolatey: https://chocolatey.org/install
+1. install jekyll: https://chocolatey.org/packages/jekyll
 
 
 Build and serve the site locally:
