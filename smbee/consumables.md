@@ -25,8 +25,6 @@ Solder paste. 5g as supplied | ![solder paste](assets/solder-paste-5g.jpg){:widt
 Syringe | ![1ml syringe](assets/1ml-syringe.jpg){:width="600px"} | 1ml Luer slip syringe. This is required to dispense the solder paste. See the preparation guidelines below.
 Dispensing needle | ![22g dispensing needle](assets/22g dispensing needle.jpg){:width="150px"} | 22G dispensing needle - (blunt needle). Luer slip with stainless cannula.
 Needle cover or seal | ![22g dispensing needle](assets/needle-seal-cap.jpg){:width="200px"} | A cover or seal will protect the needle and stop unwanted leakage. Only one or the other can be fitted.
-Solder wire | ![solder wire](assets/solder-wire.jpg){:width="150px"} | A small length is required to tin the soldering iron bit.
-[Kapton tape] | ![Kapton tape](assets/kapton-tape.jpg){:width="150px"} | 5mm width, double adhesive side. Holds the brooch pin in place while soldering & provides additional insulation for the PCB tracks.
 Wooden cocktail sticks or tooth picks | ![toothpick, cocktail stick](assets/toothpick-cs.jpg){:width="200px"} | Very helpful to make minor adjustments to solder-paste like removing from between tracks.
 Paper tissue or fine lint-free cloth | ![tissue](assets/tissue.jpg){:width="150px"} | Helpful for cleaning the syringe-needle or excess solder-paste from the PCB.
 Cotton buds | ![cotton bud](assets/cotton-bud.jpg){:width="150px"} | Maybe helpful to selectively clean off solder paste.
@@ -40,11 +38,11 @@ Add a small amount (up to 0.3ml) of solder paste from its supplied container, to
 
 A prepared syringe with dispensing needle.<BR><BR>Using a small 1ml syringe minimizes force is required to dispense to the paste.<BR><BR>For applying the paste to the PCB, I've found a 22G dispensing needle gives the best results. | ![prepared syringe](assets/prepared syringe.jpg){:width="400px"}
 
-## Choosing solder paste and solder wire
+## Choosing solder paste
 
-The choice of solder paste is critical for ease of use and final results, there are many formulations so you need to be careful when choosing one. If you purchase lead-free solder wire at reputable hobby outlets it will typically have suitable properties for this application but the choice of wire thickness and reel size will be limited. You will probably have purchase the paste from commercial suppliers, they also offer a wide range of solder wire diameters, real sizes and formulations but given the available choices, you need to know what to buy.
+The choice of solder paste is critical for ease of use and final results, there are many formulations so you need to be careful when choosing one. Unlike solder wire, hobby suppliers of electronic components don't usually stock solder paste, you will probably have purchase the paste from industrial suppliers, who offer a vast range of (unsuitable) options so you need to know what to buy.
 
-Choose solder-paste and solder-wire with the following properties:
+Choose solder-paste (like solder-wire if you need it) with the following properties:
 
 * Lead-free for low toxicity and [RoHS]{:target="rohs"}
 compliance.
@@ -55,7 +53,7 @@ There are lead-free alloys containing bismuth with a lower melting temperature t
 
 Most solder paste needs to be stored at low temperature to keep it mixed but you need to return it to room temperature so the paste is fluid enough to dispense. I keep mine in my fridge. The syringe can be removed half an hour or so before use then returned after use. I keep my solder paste like this. It is well past its expiry date but still performs well.
 
-All the bee badge components are soldered with *solder paste* rather than solder wire. Hot air is generally used to flow the solder paste. The brooch-pin back and the coin-cell holder have a high thermal capacity, it is easier to melt the solder paste on these components with a soldering iron. Some solder wire is still required to tin the soldering iron bit.
+All the bee badge components are soldered with *solder paste* rather than solder wire. Hot air is used to flow the solder paste.
 
 >Solder paste is made of fine solder metal particles suspended in a viscous flux. It is used in surface-mount soldering because it can be applied to the bare PCB using printing techniques and to some extent will hold the small surface mount components once placed, before the assembly is heated to melt or flow the solder-paste. The solder particles are a metal alloy designed to melt at a suitable temperature with good mechanical and electrical properties to bond to the components.
 
