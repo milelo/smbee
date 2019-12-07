@@ -89,26 +89,15 @@ Don't remove the orange film from the switch, it looks like Kapton tape but it h
 
 ## Brooch pin
 
-You will need a heated soldering iron for the next step. Ensure the soldering iron tip is clean and tinned.
 
-It can be difficult to hold the pin in position while applying the heat. I've found it easier to stick the pin in position with double sticky sided, heat-resistive Kapton tape before flowing the solder.
-
-First make sure the pin isn't bent and can sit flat on the PCB.
-
-Cut a piece of Kapton tape, longer than needed, it can be trimmed to size after application. Stick it to the pin.<BR><BR>Peal each end back and with a small pair of scissors, trim to fit as shown here.<BR><BR>Peal off the clear film from the exposed side, this can be tricky to part. | ![](assets/SMBee-pin-taped.jpg){:width="600px"}
-Apply some solder paste to each end of the pin where it will sit on the solder pads. | ![](assets/SMBee-pin-pasted.jpg){:width="600px"}
-Stick the pin with its solder paste to the PCB. Centre the round gold dot (fiducial marker) on the PCB in the hole in the pin back. | ![](assets/SMBee-pin-placed.jpg){:width="600px"}
-Use the soldering iron to flow the solder:<BR><BR>Put a small amount of solder paste between the pin and each pad in a position that can be reached by your soldering iron tip.<BR><BR>Ensure the soldering iron tip is tinned and freshly loaded with a small amount of solder, this will be drawn into the gap between the pad and the pin.<BR><BR>Apply the tip to the exposed solder paste and wait for the pin to heat and all the solder paste to melt and turn shiny. | ![](assets/SMBee-pin-flowing.jpg){:width="600px"}
-Repeat on the hinge side. | ![](assets/SMBee-pin-flowing2.jpg){:width="600px"}
+First ensure the pin isn't bent so it will sit flat on the PCB. | ![](assets/brooch-pin.jpg){:width="800px"}
+Apply solder paste to each end of the pin where it will sit on the solder pads. | ![](assets/SMBee-pin-paste.jpg){:width="800px"}
+Place the pin with its solder paste onto the PCB. Centre the round gold dot (fiducial marker) on the PCB in the hole in the pin back.<BR><BR>Ensure some solder paste is visible on each pad, if not add a small amount between the pin and pad so the melting solder will be visible.<BR><BR>To flow the solder apply hot air to the pin on the inside of the bend between the clasp and the pin base until all the solder paste on the pad has melted, ideally the melted solder will be visible all round where the pin contacts the pad.<BR><BR>Repeat on the other pad by applying hot air to the pin hinge area.  | ![](assets/SMBee-pin-placed.jpg){:width="800px"}
 
 ## Battery holder
 
-You will need a heated soldering iron for the next step. Ensure the soldering iron tip is clean and tinned.
-
 Apply the solder paste to the pads as shown. | ![](assets/SMBee-holder-pasted.jpg){:width="800px"}
-Place the battery holder in position.<BR><BR>Ensure the soldering iron tip is tinned and freshly loaded with a small amount of solder. <BR><BR>Start with the holder tag closest to the pin. Ensure there is some solder paste visible in the hole in the tag.<BR><BR>Place the soldering iron tip in the hole and rest it in place. Reposition the holder as necessary. Wait until the paste fully melts, preferably visible round the outside edges of the tag but it is more important to get it correctly positioned. You can always reflow it after flowing the other tag. | ![](assets/SMBee-holder-flowing1.jpg){:width="800px"}
-Re-tin and load the soldering iron tip.<BR><BR>Repeat with the other tag. | ![](assets/SMBee-holder-flowing2.jpg){:width="800px"}
-The completed assembly. | ![](assets/SMBee-holder-soldered.jpg){:width="800px"}
+Place the battery holder in position.<BR><BR>Apply heat to the battery holder tag nearest to the pin until the paste is fully melted and appears as a silver sliver around the edges of the tag.<BR><BR>Repeat for the tag nearest the tail of the bee. | ![](assets/SMBee-holder-soldered.jpg)
 
 ---
 
