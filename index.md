@@ -14,12 +14,12 @@ For the design source files and theory see the project repositories...
 
 ### SMBee badge:
 
-PCB design | <https://github.com/milelo/SMBeeKiCad>{:target="SMBeeKiCad"}
+PCB design and schematic | <https://github.com/milelo/SMBeeKiCad>{:target="SMBeeKiCad"}
 Firmware source and build | <https://github.com/milelo/SMBeeFirmware>{:target="SMBeeFirmware"}
 
 ### SMBeeHive dock and programmer:
 
-PCB design | <https://github.com/milelo/SMBeeHiveKiCad>{:target=""}
+PCB design and schematic | <https://github.com/milelo/SMBeeHiveKiCad>{:target=""}
 3D CAD design and laser cutter images | <https://github.com/milelo/SMBeeHiveF360>{:target="SMBeeHiveF360"}
 Custom firmware for the USBASP | <https://github.com/milelo/SMBeeHiveFirmware>{:target="SMBeeHiveFirmware"}
 
